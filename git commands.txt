@@ -13,3 +13,6 @@ git commit -m '<any name is allowed>'
 5. In order to push the code into github repoitory we need to run the follwoing commands
 git remote add origin https://github.com/06ashish1999/carzone-gitproject.git
 git push -u origin main
+
+6. to see the changes in any files
+git status
