@@ -24,3 +24,6 @@ after creating the app we need to add that app in the installed apps in settings
 add ''pages.apps.PagesConfig','
 
 PagesConfig file will be present in pages > app.config > PagesConfig class
+
+to load the static files 
+python manege.py collectstatic
