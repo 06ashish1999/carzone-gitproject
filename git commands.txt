@@ -23,3 +23,11 @@ git commit -m '<any name allowed>'
 
 8. to add those files to github
 git push origin master
+
+9. connecting to github
+mkdir repo && cd repo
+git init
+git remote add origin /path/to/origin.git
+git add .
+
+git push -u origin master
