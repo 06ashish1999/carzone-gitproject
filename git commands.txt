@@ -20,3 +20,6 @@ git status
 7. to add and commit those changes
 git add -A
 git commit -m '<any name allowed>'
+
+8. to add those files to github
+git push origin master
