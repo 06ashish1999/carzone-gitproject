@@ -16,3 +16,7 @@ git push -u origin main
 
 6. to see the changes in any files
 git status
+
+7. to add and commit those changes
+git add -A
+git commit -m '<any name allowed>'
