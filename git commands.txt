@@ -2,3 +2,14 @@
 
 2. to add all files
 git add -A
+
+3. if you are running git for the first time we need to run some commands
+git config --global user.name "Sai Ashish"
+git config --global user.email ideas.something@gmail.com
+
+4. to commit the changes
+git commit -m '<any name is allowed>'
+
+5. In order to push the code into github repoitory we need to run the follwoing commands
+git remote add origin https://github.com/06ashish1999/carzone-gitproject.git
+git push -u origin main
